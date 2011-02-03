@@ -4,7 +4,7 @@
 //  Created by Dexter Ang on 02/01/2011.
 //  Copyright 2011 Dexter Ang. All rights reserved.
 //
-//  License: GPL v.3. If you need some other license, just ask me.
+//  License: The BSD License
 
 #import <Foundation/Foundation.h>
 

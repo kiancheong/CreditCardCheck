@@ -3,9 +3,13 @@ CreditCardCheck
 A Cocoa / Objective-C class to check for the validity of credit card
 numbers using the Luhn Algorithm.
 
-License: The BSD License.
+----------
 
-Copyright: (c) 2011 Dexter Ang.
+Copyright 2011 Dexter Ang. All rights reserved.
+
+License: The BSD License
+
+----------
 
 Sorry messy README. Work in progress.
 
@@ -19,7 +23,7 @@ All methods are Class methods. Just import the header file and you're good to go
 
 + (NSString *)issuerOf:(NSString *)aCreditCardNo;
 - Returns the issuer of the credit card. Not yet implemented.
-  Looking for a complete up-to-date database of these.
+  Looking for a complete up-to-date database of these. TODO
 
 + (int)luhnCheckOf:(NSString *)aCreditCardNo;
 - Returns the computed no. based on the Luhn Algorithm. The last digit entered
