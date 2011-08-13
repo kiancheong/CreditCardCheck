@@ -1,10 +1,10 @@
 //
 //  CreditCardCheck.h
 //
-//  Created by Dexter Ang on 02/01/2011.
-//  Copyright 2011 Dexter Ang. All rights reserved.
+//  Copyright (c) 2011 Dexter Ang. All rights reserved.
 //
-//  License: The BSD License
+//  License: GPL version 3. Unless you have some other suggestions.
+//
 
 #import <Foundation/Foundation.h>
 
