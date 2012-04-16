@@ -29,6 +29,8 @@ Known Issues
 Copyright & License
 -------------------
 
-Copyright (c) 2011 Dexter Ang. All rights reserved.
+Copyright (c) 2012 Dexter Ang
 
-License: GPL version 3. Unless you have some other suggestions.
+CreditCardCheck is released under the MIT license:
+
+- http://www.opensource.org/licenses/MIT
